@@ -1,0 +1,6 @@
+com\setec\ServletInitializer.class
+com\setec\entities\Booked.class
+com\setec\services\MyTelegramBot.class
+com\setec\controller\MyController.class
+com\setec\CoffeeShopHtmlTelegramBotApplication.class
+com\setec\repo\BookedRepo.class
